@@ -1,0 +1,9 @@
+*.pdf
+*.png
+*.csv
+*.txt
+*.class
+quantum_volume/cnot*
+quantum_volume/dynamic*
+quantum_volume/static*
+cnotsynth-Java/bin
